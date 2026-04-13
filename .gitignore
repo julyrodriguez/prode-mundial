@@ -1,0 +1,6 @@
+.vercel
+.env*.local
+.env
+serviceAccountKey.json
+node_modules/
+.expo/
